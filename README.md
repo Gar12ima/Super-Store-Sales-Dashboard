@@ -22,6 +22,50 @@ The dashboard was created in Power BI using built-in visuals, DAX measures for c
 This repository is perfect for those looking to:
 
 Learn Power BI dashboard design and data modeling.
+# 🛍️ Super Store Sales Dashboard
+
+A dynamic and interactive Power BI dashboard designed to analyze and visualize sales performance for a fictional retail store.
+
+## 📌 Features
+
+- Total Sales, Profit, Quantity Sold
+- Category & Sub-category breakdown
+- Region-wise and State-wise analysis
+- Customer Segment Performance
+- Time-based trends (monthly, yearly)
+- Shipping method impact
+
+## 📂 File
+
+- `Sales Dashboard.pbix`: Power BI report file
+
+## 🛠️ Tools Used
+
+- Power BI
+- DAX (Data Analysis Expressions)
+- Built-in Power BI Visualizations
+
+## 📈 Use Cases
+
+- Sales analysis
+- Performance tracking
+- Portfolio project for BI professionals
+- Dashboarding practice
+
+## 📥 How to Use
+
+1. Download the `.pbix` file.
+2. Open it with Power BI Desktop.
+3. Explore and interact with the visuals and filters.
+
+## 📧 Contact
+
+For questions or suggestions, feel free to reach out or open an issue.
+
+---
+
+**🔗 License:** This project is open-source and free to use for educational and professional purposes.
+
 
 Showcase BI projects in their portfolio.
 
